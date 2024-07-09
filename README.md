@@ -51,12 +51,13 @@ The dataset for this project can be found on Kaggle and is already split into tr
 ## Results
 Summarize the key findings from the EDA and the performance of the models. Highlight which features were most important for predicting survival and discuss the effectiveness of each model.
 
-## Nick DiMeglio’s Contributions:
+## Contributions: 
+### Nick DiMeglio’s Contributions:
 - Created models and accuracy for the data
 - Split data into training and testing data
 - Helped Clean data
 - Helped in visualization of data
-## InjuSmol’s Contributions:
+### InjuSmol’s Contributions:
 - Created 5 fold cross verification
 - Found the F-score, Recall value and Precision Value
 - Helped Clean Data
